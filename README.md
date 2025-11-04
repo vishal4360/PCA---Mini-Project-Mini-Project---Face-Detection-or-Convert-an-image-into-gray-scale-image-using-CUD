@@ -1,4 +1,4 @@
-# PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
+[[# PCA-Mini-Project---Face-Detection-or-Convert-an-image-into-gray-scale-image-using-CUD
 Mini Project - Face Detection or Convert an image into gray scale image using CUDA GPU programming
 # CUDA Grayscale Conversion
 
@@ -146,7 +146,9 @@ plt.tight_layout()
 plt.show()
 ```
 ## Output:
-<img width="1234" height="421" alt="image" src="https://github.com/user-attachments/assets/28350e64-f7b8-4274-b3e4-d0426d79e7ad" />
+![WhatsApp Image 2025-11-04 at 13 47 39_4f0ab9cc](https://github.com/user-attachments/assets/ff47ed96-c736-4480-9a52-98c1d3ed2fbc)
+
 
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
+](https://github.com/vishal4360/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/blob/main/README.md)](https://github.com/vishal4360/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/blob/main/README.md)
